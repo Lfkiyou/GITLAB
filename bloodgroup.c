@@ -5,6 +5,7 @@ void main()
   int i;
   do
   {
+    printf("Hello I'm bloodgroup checkkkk!!! >W<)/ \n");
     printf("What is your Name? ");
     scanf("%s", Name);
     do
